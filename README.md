@@ -18,15 +18,15 @@
 
 
 
-- 💻 &nbsp; C# | Node | C++ | C | MySQL | SQL 
+- 💻 &nbsp; C# (.NET/Netcore) | NodeJS | C/C++ | MySQL | SQL | Visual Basic
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | AngularJS | VueJS | TypeScript
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | AngularJS | VueJS | TypeScript | Bootstrap/Material Design and Responsive Design
 
 <!--
 
 - 🛢 &nbsp; MySQL | MongoDB | SQL 
 
-- 🔧 &nbsp; Git  | Selenium | Reverse Engenieering
+- 🔧 &nbsp; Git  | Selenium | Reverse Engenieering | Malware Design and Development
 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
@@ -34,9 +34,9 @@
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 Other Technologies </h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | Azure | 
 
 <hr>
 

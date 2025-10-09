@@ -12,7 +12,7 @@
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
-
+- You can see my full updated resume here: https://www.nbuzzi-resume.com/
 
 <h3>🛠 Tech Stack</h3>
 

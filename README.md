@@ -67,14 +67,7 @@ Most of my professional and game-infrastructure work lives in private repositori
 - Open-sourcing the tools I built for my own projects.
 - Exploring Rust for systems and language tooling.
 
-## 🐍 Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nbuzzi/nbuzzi/output/snake-dark.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/nbuzzi/nbuzzi/output/snake.svg">
-  </picture>
-</p>
+## 📈 Activity
 
 <p align="center">
   <a href="https://github.com/nbuzzi?tab=repositories"><img alt="GitHub followers" src="https://img.shields.io/github/followers/nbuzzi?style=flat-square&logo=github&label=followers"></a>

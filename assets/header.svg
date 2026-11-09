@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Nicolás Buzzi - Software Architect and Full Stack Lead">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/><stop offset="0.55" stop-color="#1e1b4b"/><stop offset="1" stop-color="#0c4a6e"/>
+      <animate attributeName="x2" values="1;0.6;1" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0" x2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <clipPath id="r"><rect width="900" height="220" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="900" height="220" fill="url(#bg)"/>
+    <g fill="none" stroke="#38bdf8" stroke-opacity="0.12">
+      <path d="M0 40H900M0 80H900M0 120H900M0 160H900M0 200H900"/>
+      <path d="M60 0V220M180 0V220M300 0V220M420 0V220M540 0V220M660 0V220M780 0V220"/>
+    </g>
+    <circle cx="780" cy="50" r="90" fill="#a78bfa" fill-opacity="0.18"><animate attributeName="cx" values="780;730;780" dur="12s" repeatCount="indefinite"/></circle>
+    <circle cx="120" cy="190" r="110" fill="#38bdf8" fill-opacity="0.14"><animate attributeName="cy" values="190;150;190" dur="9s" repeatCount="indefinite"/></circle>
+    <text x="450" y="95" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#fff">Nicolás Buzzi</text>
+    <rect x="330" y="108" width="240" height="4" rx="2" fill="url(#ac)"><animate attributeName="width" values="0;240;240" keyTimes="0;0.4;1" dur="2.5s" fill="freeze"/><animate attributeName="x" values="450;330;330" keyTimes="0;0.4;1" dur="2.5s" fill="freeze"/></rect>
+    <text x="450" y="152" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="20" fill="#bae6fd">
+      <tspan>Software Architect · Full Stack Lead</tspan>
+      <animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze"/>
+    </text>
+    <text x="450" y="182" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="15" fill="#94a3b8">.NET · C++ · React · Cloud · AI agents</text>
+  </g>
+</svg>

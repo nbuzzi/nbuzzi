@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="whoami">
+  <style>
+    .t{font-family:Consolas,Menlo,monospace;font-size:17px}
+    .p{fill:#38bdf8}.c{fill:#e2e8f0}.k{fill:#a78bfa}.g{fill:#4ade80}
+    .l{opacity:0;animation:show .01s forwards}
+    .l1{animation-delay:.4s}.l2{animation-delay:1.2s}.l3{animation-delay:1.9s}.l4{animation-delay:2.6s}.l5{animation-delay:3.3s}.l6{animation-delay:4s}
+    @keyframes show{to{opacity:1}}
+    .cur{animation:blink 1s steps(2) infinite}@keyframes blink{50%{opacity:0}}
+  </style>
+  <rect width="900" height="230" rx="14" fill="#0b1220"/>
+  <rect width="900" height="34" rx="14" fill="#111a2e"/><rect y="20" width="900" height="14" fill="#111a2e"/>
+  <circle cx="22" cy="17" r="6" fill="#ef4444"/><circle cx="42" cy="17" r="6" fill="#eab308"/><circle cx="62" cy="17" r="6" fill="#22c55e"/>
+  <text x="450" y="22" text-anchor="middle" class="t" font-size="13" fill="#64748b">nbuzzi@buenos-aires: ~</text>
+  <g class="t">
+    <text x="24" y="66" class="l l1"><tspan class="p">$</tspan> <tspan class="c">whoami</tspan></text>
+    <text x="24" y="90" class="l l2 g">nicolas-buzzi // architect, lead, builder</text>
+    <text x="24" y="120" class="l l3"><tspan class="p">$</tspan> <tspan class="c">cat focus.txt</tspan></text>
+    <text x="24" y="144" class="l l4"><tspan class="k">architecture</tspan><tspan class="c"> → scalable systems, API to production</tspan></text>
+    <text x="24" y="166" class="l l5"><tspan class="k">leadership  </tspan><tspan class="c"> → distributed teams, mentoring</tspan></text>
+    <text x="24" y="188" class="l l5"><tspan class="k">ai + systems</tspan><tspan class="c"> → agents, LLMs, C++/Rust tooling</tspan></text>
+    <text x="24" y="218" class="l l6"><tspan class="p">$</tspan> <tspan class="cur c">█</tspan></text>
+  </g>
+</svg>

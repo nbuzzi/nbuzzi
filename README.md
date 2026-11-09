@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Nicolás 👋</h1>
+<p align="center">
+  <img src="assets/header.svg" alt="Nicolás Buzzi - Software Architect and Full Stack Lead" width="100%">
+</p>
 
 <p align="center">
-  <b>Software Architect &amp; Full Stack Lead</b><br/>
-  10+ years designing, building and shipping enterprise systems end to end.<br/>
+  <b>10+ years designing, building and shipping enterprise systems end to end.</b><br/>
   Buenos Aires, Argentina · working remotely with distributed teams
 </p>
 
@@ -10,6 +11,10 @@
   <a href="https://www.linkedin.com/in/nicol%C3%A1s-buzzi-a76837112/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:nico.cbuzzi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/buzzinico/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="assets/terminal.svg" alt="whoami" width="100%">
 </p>
 
 ---
@@ -62,6 +67,19 @@ Most of my professional and game-infrastructure work lives in private repositori
 - Open-sourcing the tools I built for my own projects.
 - Exploring Rust for systems and language tooling.
 
+## 🐍 Contributions
+
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nbuzzi/nbuzzi/output/snake-dark.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/nbuzzi/nbuzzi/output/snake.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nbuzzi?tab=repositories"><img alt="GitHub followers" src="https://img.shields.io/github/followers/nbuzzi?style=flat-square&logo=github&label=followers"></a>
+  <a href="https://github.com/nbuzzi/dbo-assets-studio/releases"><img alt="Latest release" src="https://img.shields.io/github/v/release/nbuzzi/dbo-assets-studio?style=flat-square&label=dbo-assets-studio"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=nbuzzi&style=flat-square&color=blue">
 </p>
+
+<p align="center"><sub>Thanks for stopping by ✌️</sub></p>
